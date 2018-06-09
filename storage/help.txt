@@ -1,0 +1,33 @@
+__ACTIONS__
+
+`a/hug <user>` For make hug a user
+
+`a/kiss <user>` To kiss a user
+
+`a/pat <user>` To stroke a user's head
+
+`a/poke <user>` For make a poke to a user
+
+`a/slap <user>` To slap a user
+
+`a/punch <user>` To slap a user
+
+
+__REACTION__
+
+`a/confused` To show his confusion
+
+`a/pout` 
+
+`a/smug` To laugh slightly
+
+`a/stare` look
+
+
+__For everyone__
+
+`; help` To view my orders
+
+`; ping` To see his ping
+
+`; report <user> <reason> `To report a user's bad behavior

@@ -1,0 +1,34 @@
+﻿
+__**Événements**__
+
+Les événements seront annoncés dans le salon annonces. Si il y a une modification vous serez informés de la même façon. 
+
+
+__**Rôles**__
+
+Les rôles que vous pouvez avoir
+|JapanFan| 
+|GhibliFan| 
+|VideoGameFan| 
+|Anime/MangaFan| 
+|KpopFan| 
+
+__**Utilité de cette option + Comment obtenir ces rôles**__
+
+Cela sert a pouvoir parler de sujet qui vous passionnes avec d'autres Fans dans la tranquillitée. 
+Il vous suffira donc de taper la commande ci-dessous qui vous ajouteras le(s) rôle(s) automatiquement 
+
+Pour avoir le rôle |JapanFan| taper la commande : ;JFan
+Pour avoir le rôle |GhibliFan| taper la commande :;GFan
+Pour avoir le rôle |VideoGameFan| taper la commande :;VGFan
+Pour avoir le rôle |Anime/MangaFan| taper la commande:;AMFan
+
+__**Comment commencer le RP :**__
+Pour commencer le RP il te suffit de taper la commande :
+
+```;rp```
+
+Ainsi tu auras le rôle SANS FICHE, tu pourras voir tous les salon RP, voir les règles RP,....
+
+
+Cliquez sur la case ✅ si vous avez lus. 
