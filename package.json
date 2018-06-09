@@ -1,0 +1,16 @@
+{
+  "name": "Athena",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular-datatables": "^0.6.2",
+    "angular-route": "^1.6.9",
+    "canvas-constructor": "^0.3.0",
+    "discord.js": "^11.3.2",
+    "enmap": "^2.0.4",
+    "enmap-level": "^2.0.2",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "serve-favicon": "^2.4.5",
+    "serve-static": "^1.13.1"
+  }
+}
